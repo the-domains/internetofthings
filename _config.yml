@@ -1,4 +1,4 @@
-name: The Future of Tech
+name: The Internet of Things
 favicon: null
 layout_spectrum: 0.550898396410048
 typography_spectrum: 0.6828520111739635
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#008aa5'
+    - '#003a44'
+    - '#fdfefe'
+    - '#4a6e0f'
+    - '#b28a34'
   brandStrength: 0.8661845324095339
   lightness: 0.4208367362152785
   saturation: 0.6615487015806139
