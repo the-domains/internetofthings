@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Future of Technology]]></title>
         <description><![CDATA[The Future of Technology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/internetofthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 02:43:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 02:45:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/internetofthings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe6a67c-4698-44d1-b7d2-3b9ac499f40d.jpg">]]></description>
+            <link>https://thegrid.ai/internetofthings/de5bdfe2-8e4c-4196-9caa-70e5ac9f6dc0/index.html</link>
+            <guid isPermaLink="false">de5bdfe2-8e4c-4196-9caa-70e5ac9f6dc0</guid>
+            <pubDate>Sat, 16 Apr 2016 02:44:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e53ba27-cf5a-4e22-814c-dca0771c6569.jpg">]]></description>
-            <link>undefinedb950587c-9729-4e93-ba13-29ffe47971ab/index.html</link>
+            <link>https://thegrid.ai/internetofthings/b950587c-9729-4e93-ba13-29ffe47971ab/index.html</link>
             <guid isPermaLink="false">b950587c-9729-4e93-ba13-29ffe47971ab</guid>
             <pubDate>Sat, 16 Apr 2016 02:43:08 GMT</pubDate>
         </item>
