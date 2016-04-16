@@ -1,0 +1,28 @@
+name: The Future of Tech
+favicon: null
+layout_spectrum: 0.550898396410048
+typography_spectrum: 0.6828520111739635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8661845324095339
+  lightness: 0.4208367362152785
+  saturation: 0.6615487015806139
+  rhythmicContrast: 0.7685205640736967
+purpose: []
